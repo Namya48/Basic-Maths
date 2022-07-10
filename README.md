@@ -1,2 +1,0 @@
-# Simple-calculation
-FIRST TIME 
