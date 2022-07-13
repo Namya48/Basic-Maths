@@ -6,3 +6,4 @@ public class multiply
     System.out.print(a*b);
 }
 }  
+plz run this code in Bluej
