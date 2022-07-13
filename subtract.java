@@ -5,3 +5,4 @@ public class subtract
     System.out.print(a-b);
 }
 }  
+plz run this code in Bluej
